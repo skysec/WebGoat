@@ -17,6 +17,7 @@
  *
  * Getting Source ==============
  *
+ * another comment
  * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repository for free software projects.
  */
 
